@@ -115,8 +115,8 @@ This repository is divided into four key branches, each representing a distinct 
 
    ```bash
 
-   git clone https://github.com/Jenber-Ligab/ACIS
-   cd KAIM-W3
+   git clone https://github.com/Alebachew424/insurance-risk-analytics
+   cd insurance-risk-analytics
 
    git checkout task-4
    ```
